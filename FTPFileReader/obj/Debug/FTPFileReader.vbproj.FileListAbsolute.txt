@@ -1,0 +1,15 @@
+G:\ProjectsVB17\FTPFileReader\FTPFileReader\bin\Debug\FTPFileReader.exe.config
+G:\ProjectsVB17\FTPFileReader\FTPFileReader\bin\Debug\FTPFileReader.exe
+G:\ProjectsVB17\FTPFileReader\FTPFileReader\bin\Debug\FTPFileReader.pdb
+G:\ProjectsVB17\FTPFileReader\FTPFileReader\bin\Debug\FTPFileReader.xml
+G:\ProjectsVB17\FTPFileReader\FTPFileReader\obj\Debug\FTPFileReader.vbprojAssemblyReference.cache
+G:\ProjectsVB17\FTPFileReader\FTPFileReader\obj\Debug\FTPFileReader.Form1.resources
+G:\ProjectsVB17\FTPFileReader\FTPFileReader\obj\Debug\FTPFileReader.Resources.resources
+G:\ProjectsVB17\FTPFileReader\FTPFileReader\obj\Debug\FTPFileReader.vbproj.GenerateResource.cache
+G:\ProjectsVB17\FTPFileReader\FTPFileReader\obj\Debug\FTPFileReader.vbproj.CoreCompileInputs.cache
+G:\ProjectsVB17\FTPFileReader\FTPFileReader\obj\Debug\FTPFileReader.exe
+G:\ProjectsVB17\FTPFileReader\FTPFileReader\obj\Debug\FTPFileReader.xml
+G:\ProjectsVB17\FTPFileReader\FTPFileReader\obj\Debug\FTPFileReader.pdb
+G:\ProjectsVB17\FTPFileReader\FTPFileReader\bin\Debug\WinSCPnet.dll
+G:\ProjectsVB17\FTPFileReader\FTPFileReader\obj\Debug\FTPFileReader.vbproj.CopyComplete
+G:\ProjectsVB17\FTPFileReader\FTPFileReader\obj\Debug\FTPFileReader.frmFTPSetting.resources

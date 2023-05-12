@@ -1,0 +1,75 @@
+LICENCED VERSION - Date - Logon: 28/06/2020 1:33:29 PM
+
+FRAMEWORK VERSIONS
+v2.0.50727  2.0.50727.4927  SP2
+v3.0  3.0.30729.4926  SP2
+v3.5  3.5.30729.4926  SP1
+v4  
+  Client  4.8.03752
+  Full  4.8.03752
+v4.0  
+  Client  4.0.0.0
+
+jpg opened June: 2020----0
+pdf opened June: 2020----0
+
+OS: Microsoft Windows 10 Home
+Computer Name : LAPTOP-SEBBPI1S
+User Name : toe
+ftp folder name: Complete_Metal_Roofing_29-06-2021
+domian name:estimatingsoftwareservices.com
+ip address name:166.62.27.182
+***********  TakeoffExpress v4.2.3 [23/04/2020] ©2009 ***********
+
+licence expires:  29/06/2021
+
+ID = AKPETFEXCSVS0OS3F0RSERYBA
+Serial = IFNTQMIPJMMQJRV5K8QQPN5WK
+inv 1300
+NEW SERVER 166.62.27.182
+Built with VS2017
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

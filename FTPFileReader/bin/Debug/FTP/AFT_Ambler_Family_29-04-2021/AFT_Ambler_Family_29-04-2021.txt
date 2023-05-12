@@ -1,0 +1,447 @@
+LICENCED VERSION - Date - Logon: 1/05/2020 11:45:49 AM
+
+FRAMEWORK VERSIONS
+v2.0.50727  2.0.50727.4927  SP2
+v3.0  3.0.30729.4926  SP2
+v3.5  3.5.30729.4926  SP1
+v4  
+  Client  4.8.03752
+  Full  4.8.03752
+v4.0  
+  Client  4.0.0.0
+
+jpg opened May: 2020 ----0
+pdf opened May: 2020 ----0
+
+OS: Microsoft Windows 10 Home
+Computer Name : LAPTOP-SEBBPI1S
+User Name : toe
+ftp folder name: AFT_Ambler_Family_29-04-2021
+domian name:estimatingsoftwareservices.com
+ip address name:166.62.27.182
+***********  TakeoffExpress v4.2.3 [23/04/2020] ©2009 ***********
+
+licence expires:  29/04/2021
+
+ID = AKPETFEXCSVS0OS3F0RSERYBA
+Serial = IFNTQMIPJMMQJRV5K8QQPN5WK
+inv 1288
+NEW SERVER 166.62.27.182
+Built with VS2017
+inv 1244
+Peter Ambler
+mob 0418 946565
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LICENCED VERSION - Date - Logon: 01/05/2020 12:53:05 PM
+
+FRAMEWORK VERSIONS
+v2.0.50727  2.0.50727.4927  SP2
+v3.0  3.0.30729.4926  SP2
+v3.5  3.5.30729.4926  SP1
+v4  
+  Client  4.8.03752
+  Full  4.8.03752
+v4.0  
+  Client  4.0.0.0
+
+jpg opened May: 2020 ----0
+pdf opened May: 2020 ----58
+
+OS: Microsoft Windows 10 Pro
+Computer Name : PETERNEW-PC
+User Name : User
+ftp folder name: AFT_Ambler_Family_29-04-2021
+domian name:estimatingsoftwareservices.com
+ip address name:166.62.27.182
+***********  TakeoffExpress v4.2.3 [23/04/2020] ©2009 ***********
+
+licence expires:  29/04/2021
+
+ID = KARAK1APETAFXSEL0S0VOS3FE
+Serial = MFI5PNKQ65RIQIFMQIGN8VJTM
+inv 1288
+NEW SERVER 166.62.27.182
+Built with VS2017
+inv 1244
+Peter Ambler
+mob 0418 946565
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TRIAL Date - Logon 18/06/2020 3:37:07 PM
+FRAMEWORK VERSIONS
+v2.0.50727  2.0.50727.4927  SP2
+v3.0  3.0.30729.4926  SP2
+v3.5  3.5.30729.4926  SP1
+v4  
+  Client  4.8.03761
+  Full  4.8.03761
+v4.0  
+  Client  4.0.0.0
+
+OS: Microsoft Windows 10 Pro
+Computer Name : PETER-LENOVO
+ftp folder name: AFT_Ambler_Family_29-04-2021
+***********  TakeoffExpress v4.2.3 [23/04/2020] ©2009 ***********
+licence expires:  29/04/2021
+ID = AKSVPETXFVOEN0OFERSL3OE31
+Serial = I6NRNVJMFQ5IQMTKPMJJ8TM8G
+inv 1288
+NEW SERVER 166.62.27.182
+Built with VS2017
+inv 1244
+Peter Ambler
+mob 0418 946565
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TRIAL Date - Logon 18/06/2020 4:00:55 PM
+FRAMEWORK VERSIONS
+v2.0.50727  2.0.50727.4927  SP2
+v3.0  3.0.30729.4926  SP2
+v3.5  3.5.30729.4926  SP1
+v4  
+  Client  4.8.03761
+  Full  4.8.03761
+v4.0  
+  Client  4.0.0.0
+
+OS: Microsoft Windows 10 Pro
+Computer Name : PETER-LENOVO
+ftp folder name: AFT_Ambler_Family_29-04-2021
+***********  TakeoffExpress v4.2.3 [23/04/2020] ©2009 ***********
+licence expires:  29/04/2021
+ID = AKSVPETXFVOEN0OFERSL3OE31
+Serial = I6NRNVJMFQ5IQMTKPMJJ8TM8G
+inv 1288
+NEW SERVER 166.62.27.182
+Built with VS2017
+inv 1244
+Peter Ambler
+mob 0418 946565
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TRIAL Date - Logon 18/06/2020 4:08:19 PM
+FRAMEWORK VERSIONS
+v2.0.50727  2.0.50727.4927  SP2
+v3.0  3.0.30729.4926  SP2
+v3.5  3.5.30729.4926  SP1
+v4  
+  Client  4.8.03761
+  Full  4.8.03761
+v4.0  
+  Client  4.0.0.0
+
+OS: Microsoft Windows 10 Pro
+Computer Name : PETER-LENOVO
+ftp folder name: AFT_Ambler_Family_29-04-2021
+***********  TakeoffExpress v4.2.3 [23/04/2020] ©2009 ***********
+licence expires:  29/04/2021
+ID = AKSVPETXFVOEN0OFERSL3OE31
+Serial = I6NRNVJMFQ5IQMTKPMJJ8TM8G
+inv 1288
+NEW SERVER 166.62.27.182
+Built with VS2017
+inv 1244
+Peter Ambler
+mob 0418 946565
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TRIAL Date - Logon 18/06/2020 4:10:12 PM
+FRAMEWORK VERSIONS
+v2.0.50727  2.0.50727.4927  SP2
+v3.0  3.0.30729.4926  SP2
+v3.5  3.5.30729.4926  SP1
+v4  
+  Client  4.8.03761
+  Full  4.8.03761
+v4.0  
+  Client  4.0.0.0
+
+OS: Microsoft Windows 10 Pro
+Computer Name : PETER-LENOVO
+ftp folder name: AFT_Ambler_Family_29-04-2021
+***********  TakeoffExpress v4.2.3 [23/04/2020] ©2009 ***********
+licence expires:  29/04/2021
+ID = AKSVPETXFVOEN0OFERSL3OE31
+Serial = I6NRNVJMFQ5IQMTKPMJJ8TM8G
+inv 1288
+NEW SERVER 166.62.27.182
+Built with VS2017
+inv 1244
+Peter Ambler
+mob 0418 946565
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LICENCED VERSION - Date - Logon: 23/06/2020 9:54:00 AM
+
+FRAMEWORK VERSIONS
+v2.0.50727  2.0.50727.4927  SP2
+v3.0  3.0.30729.4926  SP2
+v3.5  3.5.30729.4926  SP1
+v4  
+  Client  4.8.03761
+  Full  4.8.03761
+v4.0  
+  Client  4.0.0.0
+
+jpg opened June: 2020----1
+pdf opened June: 2020----3
+
+OS: Microsoft Windows 10 Pro
+Computer Name : PETER-LENOVO
+User Name : Peter
+ftp folder name: AFT_Ambler_Family_29-04-2021
+domian name:estimatingsoftwareservices.com
+ip address name:166.62.27.182
+***********  TakeoffExpress v4.2.3 [23/04/2020] ©2009 ***********
+
+licence expires:  29/04/2021
+
+ID = AKSVPETXFVOEN0OFERSL3OE31
+Serial = I6NRNVJMFQ5IQMTKPMJJ8TM8G
+inv 1288
+NEW SERVER 166.62.27.182
+Built with VS2017
+inv 1244
+Peter Ambler
+mob 0418 946565
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
